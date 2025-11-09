@@ -1,2 +1,10 @@
 # FCLM-for-Interactive-Matting
-AAAI2026 accepted paper for: Toward Real-World High-Precision Image Matting and Segmentation
+
+Paper for Toward Real-World High-Precision Image Matting and Segmentation, AAAI2026
+
+
+
+**Codes are under review of the company, I'll try my best to reproduce and open-source.**
+
+Thx for you attention.
+
